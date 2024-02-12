@@ -1,0 +1,17 @@
+C:\Users\ELMZ\Desktop\C# ippfm\Estudiante_Calificacion-26-1-24\bin\Debug\net6.0-windows\Estudiante_Calificacion-26-1-24.exe
+C:\Users\ELMZ\Desktop\C# ippfm\Estudiante_Calificacion-26-1-24\bin\Debug\net6.0-windows\Estudiante_Calificacion-26-1-24.deps.json
+C:\Users\ELMZ\Desktop\C# ippfm\Estudiante_Calificacion-26-1-24\bin\Debug\net6.0-windows\Estudiante_Calificacion-26-1-24.runtimeconfig.json
+C:\Users\ELMZ\Desktop\C# ippfm\Estudiante_Calificacion-26-1-24\bin\Debug\net6.0-windows\Estudiante_Calificacion-26-1-24.dll
+C:\Users\ELMZ\Desktop\C# ippfm\Estudiante_Calificacion-26-1-24\bin\Debug\net6.0-windows\Estudiante_Calificacion-26-1-24.pdb
+C:\Users\ELMZ\Desktop\C# ippfm\Estudiante_Calificacion-26-1-24\obj\Debug\net6.0-windows\Estudiante_Calificacion_26_1_24.Form1.resources
+C:\Users\ELMZ\Desktop\C# ippfm\Estudiante_Calificacion-26-1-24\obj\Debug\net6.0-windows\Estudiante_Calificacion-26-1-24.csproj.GenerateResource.cache
+C:\Users\ELMZ\Desktop\C# ippfm\Estudiante_Calificacion-26-1-24\obj\Debug\net6.0-windows\Estudiante_Calificacion-26-1-24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELMZ\Desktop\C# ippfm\Estudiante_Calificacion-26-1-24\obj\Debug\net6.0-windows\Estudiante_Calificacion-26-1-24.AssemblyInfoInputs.cache
+C:\Users\ELMZ\Desktop\C# ippfm\Estudiante_Calificacion-26-1-24\obj\Debug\net6.0-windows\Estudiante_Calificacion-26-1-24.AssemblyInfo.cs
+C:\Users\ELMZ\Desktop\C# ippfm\Estudiante_Calificacion-26-1-24\obj\Debug\net6.0-windows\Estudiante_Calificacion-26-1-24.csproj.CoreCompileInputs.cache
+C:\Users\ELMZ\Desktop\C# ippfm\Estudiante_Calificacion-26-1-24\obj\Debug\net6.0-windows\Estudiante_Calificacion-26-1-24.dll
+C:\Users\ELMZ\Desktop\C# ippfm\Estudiante_Calificacion-26-1-24\obj\Debug\net6.0-windows\refint\Estudiante_Calificacion-26-1-24.dll
+C:\Users\ELMZ\Desktop\C# ippfm\Estudiante_Calificacion-26-1-24\obj\Debug\net6.0-windows\Estudiante_Calificacion-26-1-24.pdb
+C:\Users\ELMZ\Desktop\C# ippfm\Estudiante_Calificacion-26-1-24\obj\Debug\net6.0-windows\Estudiante_Calificacion-26-1-24.genruntimeconfig.cache
+C:\Users\ELMZ\Desktop\C# ippfm\Estudiante_Calificacion-26-1-24\obj\Debug\net6.0-windows\ref\Estudiante_Calificacion-26-1-24.dll
+C:\Users\ELMZ\Desktop\C# ippfm\Estudiante_Calificacion-26-1-24\obj\Debug\net6.0-windows\Estudiante_Calificacion_26_1_24.Properties.Resources.resources
